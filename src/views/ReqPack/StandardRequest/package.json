@@ -1,0 +1,6 @@
+{
+  "name": "StandardRequest",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./StandardRequest.js"
+}

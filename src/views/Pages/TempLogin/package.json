@@ -1,0 +1,6 @@
+{
+  "name": "TempLogin",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TempLogin.js"
+}
