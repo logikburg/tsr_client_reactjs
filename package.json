@@ -37,7 +37,7 @@
     "flag-icon-css": "^3.2.1",
     "font-awesome": "^4.7.0",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.10.0",
     "prop-types": "^15.6.2",
     "rc-steps": "^3.3.0",
